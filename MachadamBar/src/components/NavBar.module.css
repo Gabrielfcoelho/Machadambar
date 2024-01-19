@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+    background-color: green;
+  }
+  
+nav ul {
+    display: flex;
+    padding: 24px;
+  }
+  
+nav ul li {
+    letter-spacing: 3px;
+    list-style: none;
+  }
+
+.item {
+    margin: 32px;
+}
+
+.item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.item a:hover {
+    color: black;
+}
