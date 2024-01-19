@@ -3,7 +3,8 @@ nav {
     justify-content: space-between;
     align-items: center;
     height: 8vh;
-    background-color: green;
+    background-color: darkgreen;
+    box-shadow: 5px 5px 10px #06060678;
   }
   
 nav ul {

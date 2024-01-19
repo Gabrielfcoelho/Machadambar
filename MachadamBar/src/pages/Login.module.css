@@ -1,0 +1,10 @@
+.login {
+    display: flex;
+  }
+  
+.section{
+    text-align: center;
+    height: inherit;
+    width: 250px;
+    height: 300px;
+  }

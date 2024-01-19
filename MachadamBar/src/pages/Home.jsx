@@ -1,11 +1,20 @@
-import style from "./Home.module.css"
+
 
 const Home = () => {
   return (
-    <section className={style.section}>
-      {/*eslint-disable-next-line react/no-unescaped-entities*/}
-      <h1>Bem-vindo ao Orc'food!</h1>
-    </section>
+    <body>
+      <header>
+        {/*eslint-disable-next-line react/no-unescaped-entities*/}
+        <h1>Bem-vindo ao Orc'food!</h1>
+        <h2>Cardápio</h2>
+      </header>
+      <section id="cardapio">
+        <h1>pratos</h1>
+      </section>
+      <footer>
+        <p>&copy;Orc'food</p>
+      </footer>
+    </body>
   )
 }
 
