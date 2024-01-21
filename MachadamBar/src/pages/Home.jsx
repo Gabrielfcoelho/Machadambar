@@ -9,7 +9,7 @@ const Home = () => {
         <h2>Cardápio</h2>
       </header>
       <section id="cardapio">
-        <h1>pratos</h1>
+        
       </section>
       <footer>
         <p>&copy;Orc'food</p>

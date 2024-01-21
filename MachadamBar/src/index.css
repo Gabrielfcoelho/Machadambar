@@ -31,3 +31,10 @@ footer {
   font-style: italic;
 }
 
+h1 {
+  padding: 50px;
+}
+
+h2 {
+  padding: 24px;
+}

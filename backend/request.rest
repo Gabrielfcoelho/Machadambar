@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/cardapios
+Content-Type: application/json
+
+{
+    "nome": "Alguma comida",
+    "descricao": "Deliciosa",
+    "preco": 30,
+    "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.incrivel.com%2F_next%2Fimage%2F%3Furl%3Dhttps%253A%252F%252Fincrivel-prd.adtsys.com.br%252Fwp-content%252Fuploads%252F2022%252F11%252Fburger_carne_incri%25CC%2581vel.png%26w%3D1920%26q%3D75&tbnid=H8UabLDmbDPYfM&vet=12ahUKEwj5jL2wz-6DAxVaipUCHUkyAiIQMygAegQIARBu..i&imgrefurl=https%3A%2F%2Fwww.incrivel.com%2Fprodutos%2Fhamburguer-de-carne-incrivel%2F&docid=4VkWkV1kXSL2jM&w=800&h=533&q=hamburguer&client=opera-gx&ved=2ahUKEwj5jL2wz-6DAxVaipUCHUkyAiIQMygAegQIARBu"
+}
